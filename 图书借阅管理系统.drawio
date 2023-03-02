@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T06:43:12.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8j3wDE5XmqRpnrUvz-3B" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T06:44:07.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lmR0zbubUXZP2D5-aLeB" version="20.8.23" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-1" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-1" value="图书" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-2" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-2" value="图书编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="430" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4jKd7ef3vC1ml2yuR7vD-3" value="课程号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="430" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-4" value="出生日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-4" value="ISBN码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-5" value="政治面貌" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-5" value="库存" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4jKd7ef3vC1ml2yuR7vD-6" value="课程名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -28,13 +28,13 @@
         <mxCell id="4jKd7ef3vC1ml2yuR7vD-8" value="课时" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="640" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-9" value="学号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-9" value="出版社" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="570" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4jKd7ef3vC1ml2yuR7vD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;" edge="1" parent="1" source="4jKd7ef3vC1ml2yuR7vD-11" target="4jKd7ef3vC1ml2yuR7vD-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-11" value="性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-11" value="图书名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="490" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4jKd7ef3vC1ml2yuR7vD-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.772;exitY=0.917;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4jKd7ef3vC1ml2yuR7vD-2" target="4jKd7ef3vC1ml2yuR7vD-1">
@@ -61,7 +61,7 @@
             <mxPoint x="300" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4jKd7ef3vC1ml2yuR7vD-16" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;exitX=0.7;exitY=0.167;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4jKd7ef3vC1ml2yuR7vD-5" target="4jKd7ef3vC1ml2yuR7vD-1">
+        <mxCell id="4jKd7ef3vC1ml2yuR7vD-16" value="" style="endArrow=none;html=1;rounded=0;strokeColor=default;exitX=0.752;exitY=0.097;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4jKd7ef3vC1ml2yuR7vD-5" target="4jKd7ef3vC1ml2yuR7vD-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="770" as="sourcePoint" />
             <mxPoint x="260" y="720" as="targetPoint" />
