@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T08:52:33.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1-R9ph8kYXum7NqpET7q" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T08:54:09.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="mrtQumyrZkD26Ie8yVG5" version="21.0.2" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1900" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -930,6 +930,30 @@
             <mxPoint x="210" y="440" as="sourcePoint" />
             <mxPoint x="260" y="390" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lizWSJFjzkjtr-komkAv-88" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;业务员&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lizWSJFjzkjtr-komkAv-89" value="管理" style="rhombus;whiteSpace=wrap;html=1;rotation=-10;" vertex="1" parent="1">
+          <mxGeometry x="195" y="395" width="85" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="lizWSJFjzkjtr-komkAv-90" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lizWSJFjzkjtr-komkAv-89" target="lizWSJFjzkjtr-komkAv-88">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="600" as="sourcePoint" />
+            <mxPoint x="390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lizWSJFjzkjtr-komkAv-91" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zWkiic-tyQeeasBH9eRY-17" target="lizWSJFjzkjtr-komkAv-89">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="610" as="sourcePoint" />
+            <mxPoint x="400" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lizWSJFjzkjtr-komkAv-92" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="385" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lizWSJFjzkjtr-komkAv-93" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="155" y="415" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
